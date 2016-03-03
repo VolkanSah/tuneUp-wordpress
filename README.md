@@ -1,2 +1,2 @@
-# tuneUp-wordpress
-How to tune up wordpress with simple hooks. Create your own Wordpress Plugins
+# Was ist SEO? What is SEO? 
+Learn, how to tune up your wordpress.
