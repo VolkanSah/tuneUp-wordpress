@@ -1,5 +1,5 @@
 <?php
-// Metaboy for your Dashboard
+// Metabox for your Dashboard
 function wis_custom_dashboard_widgets() {
 global $wp_meta_boxes;
  wp_add_dashboard_widget('custom_help_widget', 'WIS Dashboard', 'custom_dashboard_help');
